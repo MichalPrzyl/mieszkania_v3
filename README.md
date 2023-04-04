@@ -1,6 +1,6 @@
-Property Prices Tracker
+# Property Prices Tracker
 
-🏠 Property Prices Tracker is a web application built using Django, TypeScript, and React that allows users to track and save property prices from the popular real estate website Otodom.pl.
+🏠 Property Prices Tracker is a web application built using Django, TypeScript, and React that allows users to track and save property prices from the popular real estate website **Otodom.pl**.
 
 📈 Users can easily add new properties by entering the link to the property on Otodom.pl, and the application will automatically fetch the current price and save it to the database.
 
@@ -26,10 +26,8 @@ npm start
 
 Technologies Used
 
-- Django
-- TypeScript
-- React
-- PostgreSQL
+- Python: Django
+- TypeScript: React
 
 Demo
 
@@ -37,10 +35,9 @@ Check out the live demo of Property Prices Tracker here!
 Screenshots
 
 Dashboard screenshot
-![dashboard](https://drive.google.com/file/d/1POLAkweSvZ4TGlXEuzLiIQ1dRd0sO-zs/view?usp=share_link)
+![dashboard](for_readme/screen1.png)
 
 Add property screenshot
-
-Search screenshot
+![add](for_readme/screen2.png)
 
 👉 Please note that this application is for demonstration purposes only and should not be used to track actual property prices.
